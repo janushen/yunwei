@@ -1,2 +1,2 @@
 # yunwei
-free.pac
+CentOS 6 init script
